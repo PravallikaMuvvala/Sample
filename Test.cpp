@@ -7,7 +7,7 @@ int main(){
     cout<<"Test::"<<endl;
     cout<<"";
     cout<<"fjaaaaaaadg";
-    
+    cout<<"master";
 
 
 }
